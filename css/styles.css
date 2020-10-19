@@ -1,0 +1,11 @@
+/* nav------------------- */
+.navbar-default {
+  border-radius: 0%;
+}
+
+section {
+  background-color: lightgray;
+  margin-bottom: 20px;
+  padding: 10px;
+  height: 2000px;
+}
